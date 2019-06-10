@@ -1,6 +1,6 @@
-# First Rails App
+# Rails app on Heroku
 
-Readme for a simple rails app deployed on heroku
+A simple rails app deployed on heroku.
 
 ## Requirements
 
